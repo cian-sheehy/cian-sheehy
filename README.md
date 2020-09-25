@@ -18,5 +18,5 @@ I enjoy learning new technologies and have a keen in interest in Python, Docker,
 
 #### Stats 📊
 
-![Kenneth's github stats](https://github-readme-stats.vercel.app/api?username=cian-sheehy&show_icons=true&count_private=true&hide=stars,prs,contribs,issues&include_all_commits=true&theme=buefy)
+![Cian's github stats](https://github-readme-stats.vercel.app/api?username=cian-sheehy&show_icons=true&count_private=true&hide=stars,prs,contribs,issues&include_all_commits=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cian-sheehy&layout=compact)
