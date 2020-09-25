@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**cian-sheehy/cian-sheehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me👨‍💻
 
-Here are some ideas to get you started:
+I'm a Automation engineer with experience working on many different projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and have a keen in interest in Python, Docker, K8s, AWS & Iac(Terraform, Kotlin)
+
+#### Find Me 💼 📬
+
+- <a href="https://www.linkedin.com/in/ciansheehy//">LinkedIn</a>
+
+#### Certifications 🎓
+
+<a href="https://www.youracclaim.com/badges/76073b7e-55db-4b85-b049-eb4e0d1fe749"><img width="75" height="75" src="https://images.youracclaim.com/size/680x680/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">AWS Certified - Cloud Practioner</a>
+
+---
+
+#### Stats 📊
+
+![Kenneth's github stats](https://github-readme-stats.vercel.app/api?username=cian-sheehy&show_icons=true&count_private=true&hide=stars,prs,contribs,issues&include_all_commits=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cian-sheehy&layout=compact)
