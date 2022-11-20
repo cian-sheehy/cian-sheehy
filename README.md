@@ -4,7 +4,7 @@
 
 I'm a Automation engineer with experience working on many different projects
 
-I enjoy learning new technologies and have a keen in interest in Python, Docker, K8s, AWS & Iac(Terraform, Kotlin)
+I enjoy learning new technologies and have a keen in interest in C#, Quality tools, Docker, K8s, AWS & Iac
 
 #### Find Me 💼 📬
 
